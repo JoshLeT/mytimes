@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  align-items: center;
+
+}
+.header span {
+  font-family: "verdana", sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  display: inline-block;
+  justify-content: space-around;
+}
+#main {
+  color: MediumAquamarine;
+}
